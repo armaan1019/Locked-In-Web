@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Locked In Fitness",
+  title: "Locked In Fitness | Track. Progress. Share.",
   description: "Reach your fitness goals. Track, progress, and share your fitness achievements.",
 };
 
