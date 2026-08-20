@@ -3,6 +3,8 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --locked-in-blue: #2196f3;
+  --locked-in-blue-hover: #1976d2;
 }
 
 @theme inline {
